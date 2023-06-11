@@ -2,6 +2,8 @@
 
 一款基于GPT的AI工具箱！🚀
 
+本人负责负责App Center与交互卡片的开发。同时负责GPT系统的国内加速服务、以及GPT系统与用户卡片的对接响应。
+
 文泉Chatspring致力于**协助您轻松打造专属的AI应用**，通过预制的prompt实现一键式体验，将创意源源不断地转化为现实。✨
 
 只需输入OpenAI的**API KEY**，便可尽享文泉Chatspring带来的智能便利。我们持续为您提供更优质、更高效的体验，让您免去额外费用。🎉
@@ -18,18 +20,8 @@
   <img src="README.assets/2.jpg" alt="2" width="33%" />
 </div>
 
-## 联系我们
-如果您有任何问题、建议，欢迎通过以下方式联系我们：
-- 在我们的 GitHub Repo 上提交 Issue 或 PR
-- 微信联系：Hustle-lesdimbeyond
-- 发送邮件至 panggoat5@gmail.com
-
 ## 贡献代码
 我们欢迎所有人提交 PR！
-
-## 贡献者
-
-[Contributors](https://github.com/Goat11/ChatSpring/graphs/contributors)
 
 ## License
 
